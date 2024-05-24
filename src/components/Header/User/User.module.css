@@ -1,0 +1,15 @@
+.head{
+    display: flex;
+    padding: 4px 16px 4px 4px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.linklist {
+    display: flex;
+}
+
+.linklist li{
+    font-size: 15px;
+    padding: 5px;
+}

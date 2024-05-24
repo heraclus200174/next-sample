@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    padding: 10px 0;
+    background-color: aquamarine;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 15px;
+}
